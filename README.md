@@ -1,1 +1,1 @@
-This is my second practice project. In this project i created Chrome Extension which serves as a currency exchanger.
+This is my second practice project. In this project i created Chrome Extension which serves as a currency exchanger to site called auto.pl.
