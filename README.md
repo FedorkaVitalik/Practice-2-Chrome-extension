@@ -2,9 +2,9 @@ This is my second practice project. In this project i created Chrome Extension w
 
 Without using extension:
 
-![Screenshot](screenshot.png)
+![Screenshot](_README/screenshot.png)
 
 
 With extension:
 
-![Screenshot](screenshot1.png)
+![Screenshot](_README/screenshot1.png)
